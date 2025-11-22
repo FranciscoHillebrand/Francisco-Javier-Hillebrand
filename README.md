@@ -22,16 +22,16 @@ Estas son las herramientas y tecnologías que utilizo en mi día a día para ext
 
 ### Lenguajes y Bases de Datos
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python:** Pandas, NumPy (Análisis exploratorio y limpieza).
-* [cite_start]![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **SQL Server:** Modelado de datos, consultas complejas y procedimientos almacenados.
-* [cite_start]![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) **R / RStudio:** Análisis estadístico.
+* ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **SQL Server:** Modelado de datos, consultas complejas y procedimientos almacenados.
+* ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) **R / RStudio:** Análisis estadístico.
 
 ### Visualización y BI
-* [cite_start]![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI:** Creación de dashboards interactivos y reportes[cite: 45].
-* [cite_start]![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) **Looker Studio:** Visualización de datos[cite: 45].
-* [cite_start]![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **Excel / Google Sheets:** Tablas dinámicas y análisis rápido[cite: 46].
+* ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI:** Creación de dashboards interactivos y reportes.
+* ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) **Looker Studio:** Visualización de datos.
+* ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **Excel / Google Sheets:** Tablas dinámicas y análisis rápido.
 
 ### Metodologías y Herramientas
-* [cite_start]![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue) **Gestión Ágil**[cite: 46, 47].
+* ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue) **Gestión Ágil**.
 
 ---
 
@@ -41,15 +41,15 @@ Aquí puedes ver algunos de los trabajos que definen mi perfil:
 
 ### 🦠 [Expansión Estratégica - Biogenesys]
 * **Rol:** Data Analyst.
-* [cite_start]**Objetivo:** Analizar incidencias de COVID-19 en Latinoamérica para definir estrategias de expansión empresarial[cite: 11, 13].
-* [cite_start]**Tech:** Python, Power BI, Google Sheets[cite: 19].
-* [cite_start]**Resultado:** Se identificó a Brasil como el mercado con mayor impacto y oportunidad de intervención[cite: 18].
+* **Objetivo:** Analizar incidencias de COVID-19 en Latinoamérica para definir estrategias de expansión empresarial.
+* **Tech:** Python, Power BI, Google Sheets.
+* **Resultado:** Se identificó a Brasil como el mercado con mayor impacto y oportunidad de intervención.
 
 ### 🍔 [Base de Datos - Fast Food]
 * **Rol:** Data Analyst / Database Designer.
-* [cite_start]**Objetivo:** Construir una base de datos escalable y analizar patrones de venta[cite: 21, 23].
-* [cite_start]**Tech:** SQL Server[cite: 31].
-* [cite_start]**Insight:** Se detectó que la franja horaria matutina generaba la mayor rentabilidad y volumen de ventas[cite: 29].
+* **Objetivo:** Construir una base de datos escalable y analizar patrones de venta.
+* **Tech:** SQL Server.
+* **Insight:** Se detectó que la franja horaria matutina generaba la mayor rentabilidad y volumen de ventas.
 
 ---
 
@@ -58,6 +58,6 @@ Aquí puedes ver algunos de los trabajos que definen mi perfil:
 Si te interesa mi perfil o quieres colaborar en un proyecto, ¡no dudes en escribirme!
 
 * [LinkedIn](www.linkedin.com/in/francisco-javier-hillebrand)
-* [cite_start][Email](mailto:franhillebrand@gmail.com) [cite: 3]
+* [Email](mailto:franhillebrand@gmail.com) 
 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoHillebrand&show_icons=true&theme=radical)
