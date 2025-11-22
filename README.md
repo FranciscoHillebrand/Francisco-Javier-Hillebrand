@@ -1,6 +1,6 @@
 # Hola, soy Francisco Javier Hillebrand 👋
 
-### 🎓 Estudiante de Ingeniería en Informática & Analista de Datos
+### 🎓 Analista de Datos & Estudiante de Ingeniería en Informática
 
 ¡Bienvenido a mi perfil! Soy un apasionado por los datos y la tecnología con base en **Misiones, Argentina**. Actualmente terminé de cursar la carrera de **Ingeniería en Informática**y me he especializado como **Analista de Datos** a través de formaciones intensivas y proyectos prácticos en SoyHenry.
 
