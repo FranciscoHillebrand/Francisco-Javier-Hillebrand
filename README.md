@@ -60,4 +60,3 @@ Si te interesa mi perfil o quieres colaborar en un proyecto, ¡no dudes en escri
 * [LinkedIn](www.linkedin.com/in/francisco-javier-hillebrand)
 * [Email](mailto:franhillebrand@gmail.com) 
 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoHillebrand&show_icons=true&theme=radical)
